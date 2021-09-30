@@ -9,9 +9,10 @@ Webalkalmazás, ami arra szolgál, hogy egy adott cégnek lehessen feljegyezni a
 - Alkalmazottnak:
   - Rendelés leadás bejegyzése
   - Rendelés státuszának módosítása
-  - Rendelés adatok és statisztikák megjelenítése
+  - Rendelés adatok és statisztikák megtekintése
 - Adminisztrátornak:
   - Rendelés során keletkezett hibák orvoslása, törlése
+  - Rendelési statisztikák gyűjtése, archiválása
   - Alkalmazotti fiókok létrehozása, módosítása
 
 ## Nem funkcionális
